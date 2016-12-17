@@ -1,1 +1,21 @@
-theme: jekyll-theme-slate
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+gems: [jekyll-paginate]
+# Setup
+title:               The Well Tempered Blog
+tagline:             'Art, Food, Music and the rest'
+description:         'A blog about my favourite subjects'
+url:                 http://welltemperedbog.com
+baseurl:             ''
+paginate:            3
+
+# Server
+port: 4002
+
+# About/contact
+author:
+
+# Custom vars
+version:             1.0.0
