@@ -1,5 +1,5 @@
 ---
-layout: music
+layout: post
 title: The Weston Building
 category: architecture
 blah: A beautiful post
