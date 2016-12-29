@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Weston Building
+comments: true
 category: architecture
 blah: A beautiful post
 ---
