@@ -1,5 +1,5 @@
 ---
-layout: music
+layout: post
 title: New Blog - New Diet
 category: music
 blah: A beautiful post
