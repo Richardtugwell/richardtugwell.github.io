@@ -2,6 +2,7 @@
 layout: post
 title: iPad publishing
 date: 2017-01-25 14:34
+comments: true
 ---
 I played with blogging about 10 years ago and it was fun, found me some friends I would have had no chance of meeting in normal circumstances.
 
