@@ -3,7 +3,7 @@ layout: post
 title: iPad publishing
 date: 2017-01-25 14:34
 ---
-I played with blogging about 10 years ago and it was fun, found me some friends I would have had no chance of meeting in normal circumstances.
+I played with blogging about 12 years ago and it was fun, found me some friends I would have had no chance of meeting in normal circumstances.
 
 However platforms like Blogger and Wordpress became clunky to use and slow! The fun of garnering followers and comments disappeared with the advent of dominant social media players, so I gave it up.
 
