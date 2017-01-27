@@ -5,7 +5,7 @@ permalink:           pretty
 gems: [jekyll-paginate]
 # Setup
 title:               The Well Tempered Blog
-tagline:             'Art, Food, Music and the rest'
+tagline:             'What's on my mind...'
 description:         'A blog about my favourite subjects'
 url:                 http://welltemperedbog.com
 baseurl:             ''
