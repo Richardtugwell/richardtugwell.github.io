@@ -13,4 +13,6 @@ Here's a brief overview of the workflow and technologies I've adopted.
 
 Because we're talking mobile here, I'm trying too manage everything on a 9.7" iPad Pro
 
+![title]({{site.imgurl}}20160128142033-2.jpg)
+
 TBC
