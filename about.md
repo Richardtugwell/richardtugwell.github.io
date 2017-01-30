@@ -9,7 +9,7 @@ Content is written in [Markdown](http://daringfireball.net/projects/markdown/bas
  
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). 
  
-This is done with [Editorial](http://omz-software.com/editorial/), a superficially minimalist text editor with powerful features and extensibility if you want it.
+It's edited with [Editorial](http://omz-software.com/editorial/), a superficially minimalist text editor with powerful features and extensibility if you want it.
 
 The site is published using [Jekyll](https://jekyllrb.com/) - probably the de facto standard for static websites these days - amd is hosted on [Github Pages](https://pages.github.com/) 
 
