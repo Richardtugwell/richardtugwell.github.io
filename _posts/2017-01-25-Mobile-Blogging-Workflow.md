@@ -11,7 +11,7 @@ Here's a brief overview of the workflow and technologies I've adopted.
 
 **Github Pages** - There are many ways to host a static website pretty much for nothing. I've picked Github Pages for the ease of deployment and because I'm already a Github user.
 
-Because we're talking mobile here, I'm trying too manage everything on a 9.7" iPad Pro
+Because we're talking mobile here, I'm trying to manage everything on a 9.7" iPad Pro
 
 ![title]({{site.imgurl}}20160128142033-2.jpg)
 
