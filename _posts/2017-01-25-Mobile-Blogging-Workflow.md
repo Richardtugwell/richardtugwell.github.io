@@ -7,9 +7,9 @@ When I last played with blogging about 10 years ago, mobile wasn't really an opt
 
 Here's a brief overview of the workflow and technologies I've adopted.
 
-Jekyll - static website generator. Not especially a mobile option, but static sites are the way to go for fast responsive sites and that's aimed at mobile consumers. In addition clean coding with Markdown and the DB / platform agnosticism appeal to the geek in me.
+**Jekyll** - static website generator. Not especially a mobile option, but static sites are the way to go for fast responsive sites and that's aimed at mobile consumers. In addition clean coding with Markdown and the DB / platform agnosticism appeal to the geek in me.
 
-Github pages. There are many ways to host a static website pretty much for nothing. I've picked Github Pages for the ease of deployment and because I'm already a Github user.
+**Github Pages** - There are many ways to host a static website pretty much for nothing. I've picked Github Pages for the ease of deployment and because I'm already a Github user.
 
 Because we're talking mobile here, I'm trying too manage everything on a 9.7" iPad Pro
 
