@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+The site is written predominantly on a 9.7" iPad Pro with the Apple Smart Keyboard. It's an attempt to justify a mobile-only workflow.
+
+Content is written using [Editorial](http://omz-software.com/editorial/), a great, minimalist text editor for Markdown or just plain text.
+
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
