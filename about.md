@@ -5,7 +5,11 @@ title: About
 
 The site is written predominantly on a 9.7" iPad Pro with the Apple Smart Keyboard. It's an attempt to justify a mobile-only workflow.
 
-Content is written in [Markdown](http://daringfireball.net/projects/markdown/basics) using [Editorial](http://omz-software.com/editorial/). A superficially minimalist text editor it has powerful features and extensibility if you want it.
+Content is written in [Markdown](http://daringfireball.net/projects/markdown/basics)
+ 
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). 
+ 
+ using [Editorial](http://omz-software.com/editorial/). A superficially minimalist text editor it has powerful features and extensibility if you want it.
 
 The site is published using [Jekyll](https://jekyllrb.com/) - probably the de facto standard for static websites these days - amd is hosted on [Github Pages](https://pages.github.com/) 
 
