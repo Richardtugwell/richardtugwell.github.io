@@ -3,23 +3,39 @@ layout: page
 title: Photography Stuff
 ---
 
-The site is written predominantly on a 9.7" iPad Pro with the Apple Smart Keyboard. It's an experiment in using a mobile-only workflow, and is also a tribute to open source software. All of the following is possible because of a lot of smart folk out there sharing their work, ideas and expertise.
+I've been involved in photography for many years - these are a collection of posts on the topic.
 
-Content is written in [Markdown](http://daringfireball.net/projects/markdown/basics)
- 
-> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). 
- 
-It's edited with [Editorial](http://omz-software.com/editorial/), a superficially minimalist text editor with powerful features and extensibility if you want it.
+<div class="posts">
+  {{site.baseurl}}
+  {% for post in paginator.posts %}
+  {% if post.topic = 'photography' %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-The site is built using [Jekyll](https://jekyllrb.com/) - probably the de facto standard for static websites these days - and is hosted on [Github Pages](https://pages.github.com/) 
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
 
-The Jekyll code is based on [Poole](https://github.com/poole)
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
 
->In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-This site is built with Lanyon
