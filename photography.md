@@ -12,7 +12,6 @@ I've been involved in photography for many years - these are a collection of pos
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
-  {{ post.topic = photography }}
       </a>
     </h1>
 
