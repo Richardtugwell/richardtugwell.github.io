@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography Matters
+title: About
 ---
 
 The site is written predominantly on a 9.7" iPad Pro with the Apple Smart Keyboard. It's an experiment in using a mobile-only workflow, and is also a tribute to open source software. All of the following is possible because of a lot of smart folk out there sharing their work, ideas and expertise.
