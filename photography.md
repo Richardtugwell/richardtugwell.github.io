@@ -7,7 +7,7 @@ I've been involved in photography for many years - these are a collection of pos
 
 <div class="posts">
   {{site.baseurl}}
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
