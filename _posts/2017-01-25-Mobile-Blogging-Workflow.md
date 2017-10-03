@@ -2,7 +2,6 @@
 layout: post
 title: Mobile Blogging Workflow
 date: 2017-01-25 14:34
-comments: false
 ---
 When I last played with blogging about 10 years ago, mobile wasn't really an option, and I eventually got fed up with the bloated inconvenient packages like Blogger and Wordpress. In the last few years this has changed completely though, so I'm giving it another try.
 
@@ -12,4 +11,5 @@ Here's a brief overview of the workflow and technologies I've adopted. I'm doing
 
 **Github Pages** - There are many ways to host a static website pretty much for nothing. I've picked Github Pages for the ease of deployment and because I'm already a Github user.
 
+**Editorial** - A lightweight markdown editor with Github integration
 TBC
