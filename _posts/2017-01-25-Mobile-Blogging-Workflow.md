@@ -12,4 +12,5 @@ Here's a brief overview of the workflow and technologies I've adopted. I'm doing
 **Github Pages** - There are many ways to host a static website pretty much for nothing. I've picked Github Pages for the ease of deployment and because I'm already a Github user.
 
 **Editorial** - A lightweight markdown editor with Github integration
+
 TBC
