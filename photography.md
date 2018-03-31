@@ -7,13 +7,13 @@ I've been involved in photography for many years - these are a collection of pos
 
 <div class="posts">
   {{site.baseurl}}
-  {% for post in site.posts %}
+  {% for post in site.categories['photography'] %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
   </div>
