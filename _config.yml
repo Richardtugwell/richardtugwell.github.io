@@ -9,7 +9,7 @@ tagline:             'What''s on my mind...'
 description:         'A blog about my favourite subjects'
 url:                 http://welltemperedbog.com
 baseurl:             ''
-imgurl:              https://dl.dropboxusercontent.com/u/64397473/blogphotos/
+imgurl:              https://s3.eu-west-2.amazonaws.com/archivist.forthmedia/
 paginate:            3
 
 # Server
